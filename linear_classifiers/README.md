@@ -2,7 +2,7 @@
 
 (draft)
 
-[link](#Logistic Regression) to logistic regression
+[link](#logistic-regression) to logistic regression
 
 link to perceptron
 
